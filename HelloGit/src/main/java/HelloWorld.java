@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("Hello C++");
         System.out.println("Hello C");
         System.out.println("Hello Python");
+        System.out.println("Hello Go");
     }
 }
