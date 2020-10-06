@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println("Hello Java");
         System.out.println("Hello C++");
         System.out.println("Hello C");
+        System.out.println("Hello Go");
     }
 }
